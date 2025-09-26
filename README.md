@@ -1,4 +1,4 @@
-# okanogan-warehouse-rl-project
+# warehouse-rl-project
 
 ## Project Overview
 
